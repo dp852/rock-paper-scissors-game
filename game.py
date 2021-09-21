@@ -33,3 +33,5 @@ elif user_choice == "rock" and computer_choice == "paper" or user_choice == "pap
     print ("You lose")
 elif user_choice == "rock" and computer_choice == "scissors" or user_choice == "paper" and computer_choice == "rock" or user_choice == "scissors" and computer_choice == "paper":
     print ("You win")
+
+print("Thanks for playing.  Have a nice day!")
